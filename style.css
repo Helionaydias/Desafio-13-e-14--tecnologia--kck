@@ -45,7 +45,7 @@ img{
   color: #49494C;
 }
 /*Menu*/
-.menu-bg{
+.header-bg{
   background: #49494C;
 }
 .menu{
@@ -91,7 +91,7 @@ span{
   padding: 60px 10px;
 }
 /*Infantil*/
-.infantil{
+.article-infantil{
   border-top: 2px solid #F1F14B;
   border-bottom: 2px solid  #F1F14B;
   max-width: 960px;
@@ -122,11 +122,11 @@ span{
   
 }
 /*Feminino*/
-.feminino{
+.article-feminino{
   max-width: 960px;
   margin: 60px auto;
 }
-.feminino h1{
+.article-feminino h1{
   font-size: 48px;
   margin: 0 10px 60px 10px;
 }
